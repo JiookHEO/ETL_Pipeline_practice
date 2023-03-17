@@ -57,6 +57,11 @@ def ETL_Pipeline():
     # pipeline을 통해 전달될 새로운 log
     new_log = save_json_log(JSON_LOG_PATH, json_log)
 
+    # update 된 log 없을 경우 종료
+    if new_log == []:
+        print('No log updated')
+        return
+
 
     # 받은 log의 암호화된 데이터 복호화, 문자열 압축 알고리즘 적용 후 다시 암호화 및 저장
     # 1. 암호화된 부분 복호화
