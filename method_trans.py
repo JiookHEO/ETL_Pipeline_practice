@@ -1,1 +1,0 @@
-method_dict = {'POST': 1}
