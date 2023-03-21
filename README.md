@@ -13,6 +13,9 @@
 ### ➡️ 스케쥴링
 
 ----
+![Uploading ETL_CP1_Architecture.jpg…]()
+
+----
 ----
 
 ### ➡️ API 요청 데이터 추출 및 처리 ➡️ 로컬 적재
