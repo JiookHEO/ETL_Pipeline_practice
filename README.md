@@ -13,7 +13,7 @@
 ### ➡️ 스케쥴링
 
 ----
-![Uploading ETL_CP1_Architecture.jpg…]()
+![ETL_CP1_Architecture](https://user-images.githubusercontent.com/97868775/226523848-0809cc15-a626-405e-b6b1-77130b96be90.jpg)
 
 ----
 ----
